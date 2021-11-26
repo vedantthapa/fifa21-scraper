@@ -1,3 +1,13 @@
+#!/usr/bin/env python
+# -*-coding:utf-8 -*-
+'''
+@File    :   crawler.py
+@Time    :   2021/10/19 11:15:28
+@Author  :   Vedant Thapa 
+@Contact :   thapavedant@gmail.com
+'''
+
+
 from unicodedata import name
 import pandas as pd
 from bs4 import BeautifulSoup
